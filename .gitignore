@@ -6,3 +6,6 @@ __pycache__/
 
 # Mac stuff
 .DS_Store
+
+# Remove out files of the notebook since they're too heavy
+out
